@@ -19,7 +19,9 @@ Modelling missing data process.
       Explicitly model or else accept some bias in inferences.
 4. Missingness that depends on the missing value itself
       E.g., suppose that people with higher earnings are less likely to reveal their earnings. Exterme cases would become censoring.
-      Model or mitigate by by including more predictors in the missing-data model and thus bringing it closer to missing at random
+      Model or mitigate by including more relevant predictors in the missing-data model and thus bringing it closer to missing-at-random scenario.
+      
+
       
       
       
