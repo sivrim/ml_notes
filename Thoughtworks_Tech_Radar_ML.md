@@ -1,6 +1,10 @@
-## Techniques
+## Deeplinks to Thoughtworks Tech Radar items related to Machine Learning 
 
-#### Trial
+last updated on 1-July-2020
+
+### Techniques
+
+##### Trial
 
 [Continuous delivery for machine learning (CD4ML)](https://www.thoughtworks.com/radar/techniques?blipid=201904066) -- End-to-end cycles of development, deploying and monitoring machine learning models
 
@@ -10,15 +14,15 @@
 
 [Transfer learning for NLP](https://www.thoughtworks.com/radar/techniques?blipid=201904062) 
 
-#### Assess
+##### Assess
 
 [Data mesh](https://www.thoughtworks.com/radar/techniques?blipid=201911051) -- ML over decentralized data
 
 [DeepWalk](https://www.thoughtworks.com/radar/techniques?blipid=202005085) -- Apply machine learning on object graphs
 
-## Tools
+### Tools
 
-#### Trial
+##### Trial
 
 [DVC](https://www.thoughtworks.com/radar/tools?blipid=202005061) -- Data version control
 
@@ -26,9 +30,9 @@
 
 [Manifold](https://www.thoughtworks.com/radar/tools?blipid=202005100) -- Model-agnostic visual debugger for machine learning.
 
-## Platforms
+### Platforms
 
-#### Assess
+##### Assess
 
 [Google BigQuery ML](https://www.thoughtworks.com/radar/platforms?blipid=202005040) - Brings model to data (sort of serverless ML for data stored in BigQuery).
 
@@ -36,15 +40,13 @@
 
 [Stratos](https://www.thoughtworks.com/radar/platforms?blipid=202005037) -- create haptic feedback in mid-air.  A use case is responding to a driver's hand gesture.
 
-## Languages & Frameworks
+### Languages & Frameworks
 
-#### Trial
+##### Trial
 
 [PyTorch](https://www.thoughtworks.com/radar/languages-and-frameworks?blipid=1172) -- ML Library. Used wdiely for computer vision and NLP. Competitors to TensorFlow. 
 
 [Deequ](https://www.thoughtworks.com/radar/languages-and-frameworks?blipid=202005024) -- Data quality validation. unit tests for data.
 
 [ERNIE]() -- Continual pre-training framework for NLP ??
-
-
 
